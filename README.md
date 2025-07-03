@@ -14,7 +14,7 @@
 - Saves Seurat object with dimensionality reduction and clustering
 - Exports UMAP plots grouped and split by sample identity
 - Generates tables and bar plots of cell type proportions by cluster and sample
-- Optional custom color mapping for customized plotting
+- Optional custom colors for customized plotting
 
 ## 🚀 Quick Start
 
